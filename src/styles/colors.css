@@ -1,0 +1,16 @@
+:root {
+  --color-primary: #0F172A;
+  --color-secondary: #F59E0B;
+  --color-gold-light: #FCD34D;
+
+  --color-text: #1F2937;
+  --color-sub-text: #64748B;
+
+  --color-white: #FFFFFF;
+  --color-cream: #FFFBEB;
+  --color-light-background: #F8FAFC;
+  --color-dark-background: #020617;
+
+  --color-border: #E5E7EB;
+  --color-shadow: rgba(15, 23, 42, 0.12);
+}
